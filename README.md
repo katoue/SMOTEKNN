@@ -1,3 +1,3 @@
 # SMOTEKNN
 
-An oversample method with the combination of SMOTE and KNN
+An improved oversample method with the combination of SMOTE and KNN
